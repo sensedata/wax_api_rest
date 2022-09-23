@@ -28,7 +28,7 @@ defmodule WaxAPIREST.MixProject do
       {:dialyxir, "~> 1.0.0-rc.4", only: [:dev], runtime: false},
       {:ex_doc, "~> 0.19", only: :dev, runtime: false},
       {:plug, "~> 1.0"},
-      {:wax_, "~> 0.3.0"}
+      {:wax_, "~> 0.4.0"}
     ]
   end
 
